@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying on NJU Software Engineering
-- 🌱 I’m currently learning ALsys
+- 🔭 I’m currently studying software engineering at NanJing University
+- 🌱 I’m currently learning ML-sys
 - 📫 How to reach me: 211250127@smail.nju.edu.cn
 - 👋 My Homepage: [lianganran's blog](https://lianganran.top/)
 - 😄 coding just for fun!
