@@ -7,7 +7,6 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently studying software engineering at NanJing University
-- 🌱 I’m currently learning ML
 - 📫 How to reach me: 211250127@smail.nju.edu.cn
 - 👋 My Homepage: [lianganran's blog](https://lianganran.top/)
 - 😄 coding just for fun!
