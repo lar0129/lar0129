@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently studying software engineering at NanJing University
-- 📫 How to reach me: 211250127@smail.nju.edu.cn
+- 🔭 I’m currently studying software engineering at NanJing University. I will continue my master's degree in the institute of parallel and distributed systems (IPADS) of Shanghai Jiao Tong University
+- 📫 How to reach me: args.liang@gmail.com
 - 👋 My Homepage: [lianganran's blog](https://lianganran.top/)
 - 😄 coding just for fun!
 
