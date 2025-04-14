@@ -6,8 +6,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I'm studying software engineering at Nanjing University and will pursue a master's degree at IPADS(institute of parallel and distributed systems), SJTU.
-- 📫 How to reach me: args.liang@gmail.com
+- 🖥️ Master's student @ SJTU-IPADS.
+- 📫 How to reach me: aaron.anranliang@gmail.com
 - 👋 My Homepage: [lianganran's blog](https://lianganran.top/)
 - 😄 Coding just for fun!
 
