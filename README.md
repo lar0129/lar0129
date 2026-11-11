@@ -8,7 +8,7 @@ Here are some ideas to get you started:
 
 - 🖥️ Master's student @ SJTU-IPADS.
 - 📫 How to reach me: aaron.anranliang@gmail.com
-- 👋 My Homepage: [lianganran's blog](https://lianganran.top/)
+- 👋 My Homepage: [中文](https://lianganran.top/) /  [English](https://en.lianganran.top/)
 - 😄 Coding just for fun!
 
 <!--
